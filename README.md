@@ -59,7 +59,7 @@ GitHub Pages is a great free hosting solution.
 
 ### 4. Deploy on Netlify (Alternative)
 Netlify is another excellent free hosting provider, often faster and easier.
-1. Create a free account on [Netlify](https://www.netlify.com/).
+1. Create a free account on [Netlify]https://www.netlify.com/)(.
 2. Go to your dashboard and look for the **Sites** tab or **Add new site**.
 3. Select **Deploy manually**.
 4. You will see an upload box ("Drag and drop your site output folder here").
